@@ -1,0 +1,5 @@
+dependencies:
+  idf: ">=4.1"
+
+  component_a:
+    path: ../../component_a

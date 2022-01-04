@@ -1,0 +1,15 @@
+dependencies:
+  example/cmp:
+    component_hash: 8644358a11a35a986b0ce4d325ba3d1aa9491b9518111acd4ea9447f11dc47c1
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 3.3.7
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.0.0
+manifest_hash: c4a6f152c4cdf11b19d8f46e29b952832ec39c69d7c7912b98dbfc158826bbeb
+target: esp32
+version: 1.0.0
